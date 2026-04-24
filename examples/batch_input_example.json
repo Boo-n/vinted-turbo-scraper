@@ -1,0 +1,13 @@
+{
+  "_comment": "Vinted Turbo Scraper — Batch Input Example",
+  "searchURLs": [
+    "https://www.vinted.co.uk/catalog?search_text=vintage+patagonia&status_id=6&size_ids[]=14",
+    "https://www.vinted.fr/catalog?search_text=nike+dunk&price_from=80&price_to=150&brand_ids[]=53",
+    "https://www.vinted.de/catalog?search_text=jordan+1&price_from=100&size_ids[]=31"
+  ],
+  "maxItems": 1000,
+  "proxyConfiguration": {
+    "useApifyProxy": true,
+    "apifyProxyGroups": ["RESIDENTIAL"]
+  }
+}

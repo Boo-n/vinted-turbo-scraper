@@ -5,6 +5,7 @@ Paste a filtered Vinted search URL, run, and export listings in seconds.
 [![Apify Store](https://img.shields.io/badge/Apify%20Store-⚡%20Turbo%20Scraper-66fcf1?style=flat-square&logo=apify)](https://apify.com/kazkn/vinted-turbo-scraper)
 [![GitHub issues](https://img.shields.io/github/issues/Boo-n/vinted-turbo-scraper?style=flat-square)](https://github.com/Boo-n/vinted-turbo-scraper/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
+[![Examples](https://img.shields.io/badge/Examples-5%20Snippets-blue?style=flat-square)](./examples/)
 
 ---
 

@@ -2,7 +2,7 @@
 
 Paste a filtered Vinted search URL, run, and export listings in seconds.
 
-[![Apify Store](https://img.shields.io/badge/Apify%20Store-⚡%20Turbo%20Scraper-66fcf1?style=flat-square&logo=apify)](https://apify.com/kazkn/vinted-turbo-scraper)
+[![Apify Store](https://img.shields.io/badge/Apify%20Store-⚡%20Turbo%20Scraper-66fcf1?style=flat-square&logo=apify)](https://apify.com/kazkn/vinted-turbo-scraper?fpr=8fp2od)
 [![GitHub issues](https://img.shields.io/github/issues/Boo-n/vinted-turbo-scraper?style=flat-square)](https://github.com/Boo-n/vinted-turbo-scraper/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 [![Examples](https://img.shields.io/badge/Examples-5%20Snippets-blue?style=flat-square)](./examples/)
@@ -55,7 +55,7 @@ Instead of manually rebuilding filters inside an input form, you simply:
 - **🛠️ Great for monitoring** repeated searches, categories, and filtered product sets
 - **🌍 26 Vinted country domains** supported
 
-> 💡 If you want the most complete Vinted intelligence workflow with seller analysis, sold items, trending, and cross-country arbitrage, use [Vinted Smart Scraper](https://apify.com/kazkn/vinted-smart-scraper). If you want the fastest path from search URL to dataset, use Turbo.
+> 💡 If you want the most complete Vinted intelligence workflow with seller analysis, sold items, trending, and cross-country arbitrage, use [Vinted Smart Scraper](https://apify.com/kazkn/vinted-smart-scraper?fpr=8fp2od). If you want the fastest path from search URL to dataset, use Turbo.
 
 ---
 
@@ -188,9 +188,9 @@ curl -X POST "https://api.apify.com/v2/acts/kazkn~vinted-turbo-scraper/runs" \
 
 ## 📚 Resources & Documentation
 
-- 📖 [Apify Store Page](https://apify.com/kazkn/vinted-turbo-scraper)
-- 📖 [API Documentation](https://apify.com/kazkn/vinted-turbo-scraper/api)
-- 📖 [Python API Guide](https://apify.com/kazkn/vinted-turbo-scraper/api/python)
+- 📖 [Apify Store Page](https://apify.com/kazkn/vinted-turbo-scraper?fpr=8fp2od)
+- 📖 [API Documentation](https://apify.com/kazkn/vinted-turbo-scraper?fpr=8fp2od/api)
+- 📖 [Python API Guide](https://apify.com/kazkn/vinted-turbo-scraper?fpr=8fp2od/api/python)
 - 🌐 [Resources Hub](https://boo-n.github.io/vinted-turbo-scraper-hub/) — All tutorials, videos & guides
 
 ### Written Tutorials
@@ -200,8 +200,8 @@ curl -X POST "https://api.apify.com/v2/acts/kazkn~vinted-turbo-scraper/runs" \
 
 ### Related Actors
 
-- [Vinted Smart Scraper](https://apify.com/kazkn/vinted-smart-scraper) — Cross-country price comparison, seller analysis, trending
-- [Vinted MCP Server](https://apify.com/kazkn/vinted-mcp-server) — Natural language Vinted queries via Claude/Cursor
+- [Vinted Smart Scraper](https://apify.com/kazkn/vinted-smart-scraper?fpr=8fp2od) — Cross-country price comparison, seller analysis, trending
+- [Vinted MCP Server](https://apify.com/kazkn/vinted-mcp-server?fpr=8fp2od) — Natural language Vinted queries via Claude/Cursor
 
 ---
 
